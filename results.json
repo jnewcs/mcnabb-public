@@ -1,0 +1,4465 @@
+{
+  "data": [
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Sai Sarnala",
+          "school": "Rice Middle School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Andy Shufer",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Ethan Luo",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Srikar Talluri",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 5,
+          "name": "Akshay Shyam",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Ishan Gupta",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Maxwell Wu",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Pablo Arroyo",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 9,
+          "name": "Asim Suhail",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Ethan Newman",
+          "school": "Greenhill School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Jonah Lee",
+          "school": "Greenhill School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Michael Zhao",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Yash Garg",
+          "school": "Rice Middle School",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 28
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 22
+        },
+        {
+          "rank": 3,
+          "school": "Greenhill School",
+          "score": 20
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 18
+        },
+        {
+          "rank": 5,
+          "school": "Trinity Valley School",
+          "score": 13
+        }
+      ]
+    },
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Brandon Wang",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Nicholas Tsao",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Nicholas Zhong",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Michael Ying",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Kevn Paul",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "name": "Ruoming Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 7,
+          "name": "John Paul Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 8,
+          "name": "Andi Spirade",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Christina Yang",
+          "school": "The Hockaday School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Doreen Chen",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Karthik Menon",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Kesavan Venkatesh",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Michelle Liang",
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Nathan Han",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Nihar Annan",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Sanjana Shriram",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Tom Worth",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 32
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 18
+        },
+        {
+          "rank": 3,
+          "school": "St. Mark's School of Texas",
+          "score": 16
+        },
+        {
+          "rank": 4,
+          "school": "The Hockaday School",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "school": "Greenhill School",
+          "score": 13
+        }
+      ]
+    },
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Eriz Zhang",
+          "school": "Rice Middle School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Brandon Chen",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "David Yue",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Hudson Kirkpatrick",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Rishi Shridharan",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Harrison Heymann",
+          "school": "Greenhill School",
+          "score": 7
+        },
+        {
+          "rank": 7,
+          "name": "Austin Liu",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Caleb Park",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Eric W Zhang",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Hrithik Jha",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Sahil Bolar",
+          "school": "Rice Middle School",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 27
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 17
+        },
+        {
+          "rank": 3,
+          "school": "Greenhill School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "school": "Clark High School",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "school": "Bishop Lynch High School",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Elizabeth Guo",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 1,
+          "name": "Mira Mehta",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Aditya Arjun",
+          "school": "Jasper High School",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Jesse Zhong",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Tanvi Jakkampudi",
+          "school": "The Hockaday School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Anirudh Kuchibhatla",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Roy Xiong",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Effie Guo",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Lin Lin Lee",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Sanket Sane",
+          "school": "Clark High School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": " \tYoungwoo Sohn",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 32
+        },
+        {
+          "rank": 2,
+          "school": "Jasper High School",
+          "score": 28
+        },
+        {
+          "rank": 3,
+          "school": "St. Mark's School of Texas",
+          "score": 24
+        },
+        {
+          "rank": 4,
+          "school": "Trinity Valley School",
+          "score": 17
+        },
+        {
+          "rank": 4,
+          "school": "Clark High School",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dachey Lin",
+          "school": "Jasper High School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Jason Yu",
+          "school": "Clark High School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Sean Solomon",
+          "school": "Trinity Valley School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Anish Yellaturu",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Eric Shang",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Elizabeth Zhou",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Gunjan Bhattarai",
+          "school": "Jasper High School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Michael Shen",
+          "school": "Clark High School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Pearce Blend",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Yash Chandak",
+          "school": "Science/Engineering Magnet",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 29
+        },
+        {
+          "rank": 2,
+          "school": "Clark High School",
+          "score": 23
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 19
+        },
+        {
+          "rank": 4,
+          "school": "The Hockaday School",
+          "score": 18
+        },
+        {
+          "rank": 5,
+          "school": "Science/Engineering Magnet",
+          "score": 14
+        }
+      ]
+    },
+    {
+      "title": "2014 Fall",
+      "year": 2014,
+      "term": "FALL",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Lydia Li",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 1,
+          "name": "Raymond Guo",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Jeffrey Huang",
+          "school": "Jasper High School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Catherine Jiang",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Mary Zhong",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "William Song",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 7,
+          "name": "Devesh Singh",
+          "school": "Trinity Valley School",
+          "score": 8
+        },
+        {
+          "rank": 7,
+          "name": "Kaden Han",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 7,
+          "name": "Peter Grishin",
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 7,
+          "name": "Sarah Zhou",
+          "school": "The Hockaday School",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 29
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 26
+        },
+        {
+          "rank": 3,
+          "school": "Jasper High School",
+          "score": 21
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 18
+        },
+        {
+          "rank": 5,
+          "school": "Science/Engineering Magnet",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Akshay Shyam",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 1,
+          "name": "Ethan Luo",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 1,
+          "name": "Ishan Gupta",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 1,
+          "name": "Lillian Ye",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 1,
+          "name": "Sai Sarnala",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Angela Yi",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Asim Suhail",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "David Yang",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "James Shiao",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Jason Yoo",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Srikar Talluri",
+          "school": "Rice Middle School",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 24
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 22
+        },
+        {
+          "rank": 3,
+          "school": "Greenhill School",
+          "score": 17
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 14
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Brandon Wang",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 1,
+          "name": "Nicholas Zhong",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 3,
+          "name": "Nicholas Tsao",
+          "school": "Rice Middle School",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "name": "Michael Ying",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 5,
+          "name": "John Paul Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 11
+        },
+        {
+          "rank": 6,
+          "name": "Matthew Zhang",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Ruoming Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 8,
+          "name": "Andi Spirade",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Benjamin Ai",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Carter Langbert",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Connor Pierce",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Devan Patel",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Jonathan Li",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "karthik Menon",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Kesavan Venkatesh",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Mujin Kwun",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Nathan Han",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Sahitya Senapathy",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Tom Worth",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 41
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 29
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 28
+        },
+        {
+          "rank": 4,
+          "school": "Greenhill School",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 14
+        },
+        {
+          "rank": 1,
+          "name": "Eriz Zhang",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 3,
+          "name": "Brandon Chen",
+          "school": "Rice Middle School",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "name": "Eric W Zhang",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "name": "Manish Samson",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "name": "Sahil Bolar",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 7,
+          "name": "Austin Liu",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 8,
+          "name": "Mukund Rao",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 9,
+          "name": "Albert Luo",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Daming Lin",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "David Yue",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Dhruv Chawla",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Gregory Colonescu",
+          "school": "Rice Middle School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Hudson Kirkpatrick",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Marshall Comeaux",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Rishi Shridharan",
+          "school": "Rice Middle School",
+          "score": 5
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 35
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 23
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "school": "The Oakridge School",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "school": "Clark High School",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Jesse Zhong",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 2,
+          "name": "Elizabeth Guo",
+          "school": "The Hockaday School",
+          "score": 12
+        },
+        {
+          "rank": 3,
+          "name": "Anirudh Kuchibhatla",
+          "school": "Jasper High School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Chris Bender",
+          "school": "Cistercian Preparatory School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Lin Lin Lee",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 6,
+          "name": "Aditya Arjun",
+          "school": "Jasper High School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Tanvi Jakkampudi",
+          "school": "The Hockaday School",
+          "score": 10
+        },
+        {
+          "rank": 8,
+          "name": "Abhilash Potluri",
+          "school": "Clark High School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": " \tYoungwoo Sohn",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 10,
+          "name": "Effie Guo",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Richard Guo",
+          "school": "Jasper High School",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 33
+        },
+        {
+          "rank": 2,
+          "school": "Jasper High School",
+          "score": 29
+        },
+        {
+          "rank": 3,
+          "school": "Clark High School",
+          "score": 23
+        },
+        {
+          "rank": 4,
+          "school": "St. Mark's School of Texas",
+          "score": 22
+        },
+        {
+          "rank": 5,
+          "school": "Cistercian Preparatory School",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dachey Lin",
+          "school": "Jasper High School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Elizabeth Zhou",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Brian Wang",
+          "school": "Jasper High School",
+          "score": 7
+        },
+        {
+          "rank": 4,
+          "name": "Gunjan Bhattarai",
+          "school": "Jasper High School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Andrew Tran",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Colin Moran",
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Eric Shang",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Hudson Fernandes",
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Lisa Barson",
+          "school": "Plano West Senior High",
+          "score": 5
+        },
+        {
+          "rank": 10,
+          "name": "Mithilesh Bhaskaruni",
+          "school": "Jasper High School",
+          "score": 4
+        },
+        {
+          "rank": 10,
+          "name": "Tanisha Gupta",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 10,
+          "name": "Wendy Ho",
+          "school": "The Hockaday School",
+          "score": 4
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 25
+        },
+        {
+          "rank": 2,
+          "school": "The Hockaday School",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 14
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 11
+        },
+        {
+          "rank": 5,
+          "school": "Plano West Senior High",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "title": "2015 Spring",
+      "year": 2015,
+      "term": "SPRING",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Brian Ho",
+          "school": "Jasper High School",
+          "score": 11
+        },
+        {
+          "rank": 1,
+          "name": "Lydia Li",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 1,
+          "name": "Raymond Guo",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Daran Zhao",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Jeffrey Huang",
+          "school": "Jasper High School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": " \tJaeyoung Choi",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Peter Huang",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Violet Li",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "William Song",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 10,
+          "name": "Hallie Gu",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Jasmine Jin",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Kaden Han",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Feng",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Mary Zhong",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Tim O'Meara",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 30
+        },
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 30
+        },
+        {
+          "rank": 3,
+          "school": "The Hockaday School",
+          "score": 28
+        },
+        {
+          "rank": 4,
+          "school": "Plano West Senior High",
+          "score": 19
+        },
+        {
+          "rank": 5,
+          "school": "The Oakridge School",
+          "score": 18
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Luke Liu",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 1,
+          "name": "Nairit  Sarkar",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 3,
+          "name": "Coby Scrudder",
+          "school": "Cistercian Preparatory School",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Rithvik Ganesh",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 5,
+          "name": "Connor Gaffney",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Joseph Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Josh Mysore",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Sai Thirunagari",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Sam Morgan",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Shreyas  Shridharan",
+          "school": "Rice Middle School",
+          "score": 10
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 39
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 30
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 30
+        },
+        {
+          "rank": 4,
+          "school": "St. Mark Catholic School",
+          "score": 18
+        },
+        {
+          "rank": 5,
+          "school": "Greenhill School",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Antonio Marques",
+          "school": "St. Mark Catholic School",
+          "score": 12
+        },
+        {
+          "rank": 1,
+          "name": "Jacob David",
+          "school": "Trinity Valley School",
+          "score": 12
+        },
+        {
+          "rank": 3,
+          "name": "Angela Yi",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Asim Suhail",
+          "school": "Rice Middle School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Ishan Gupta",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Varun  Trivedi",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 7,
+          "name": "Andrew Arras",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 7,
+          "name": "Han Zhang",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 7,
+          "name": "Maxwell Wu",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 10,
+          "name": "Andy Shufer",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Charlie Rubarth",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Ethan Luo",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Jackson Singhal",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Lillian Ye",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Pranav  Nathan",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Srikar Talluri",
+          "school": "Rice Middle School",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 30
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 29
+        },
+        {
+          "rank": 3,
+          "school": "St. Mark Catholic School",
+          "score": 24
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 23
+        },
+        {
+          "rank": 5,
+          "school": "Trinity Valley School",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Brandon Wang",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "name": "Jonathan Li",
+          "school": "Rice Middle School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Michelle Liang",
+          "school": "Greenhill School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Kishan Kalaria",
+          "school": "Trinity Valley School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Mihir Gupta",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Ethan Newman",
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Kevn Paul",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Mohan Desai",
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 9,
+          "name": "Benjamin Ai",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Brandon Zimmer",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Bryan Han",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "John Paul Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "karthik Menon",
+          "school": "Rice Middle School",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 33
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 26
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 22
+        },
+        {
+          "rank": 4,
+          "school": "Trinity Valley School",
+          "score": 15
+        },
+        {
+          "rank": 5,
+          "school": "Clark High School",
+          "score": 13
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Hudson Kirkpatrick",
+          "school": "Cistercian Preparatory School",
+          "score": 15
+        },
+        {
+          "rank": 2,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "name": "Manish Samson",
+          "school": "Jasper High School",
+          "score": 14
+        },
+        {
+          "rank": 4,
+          "name": "Alex David",
+          "school": "Trinity Valley School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Anvith Potluri",
+          "school": "Clark High School",
+          "score": 11
+        },
+        {
+          "rank": 6,
+          "name": "Aaron Huang",
+          "school": "Clark High School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Cindy Lu",
+          "school": "The Hockaday School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "David Yue",
+          "school": "Jasper High School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Marshall Comeaux",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Raj Baweja",
+          "school": "Trinity Valley School",
+          "score": 10
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 33
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 30
+        },
+        {
+          "rank": 3,
+          "school": "Trinity Valley School",
+          "score": 29
+        },
+        {
+          "rank": 4,
+          "school": "The Hockaday School",
+          "score": 25
+        },
+        {
+          "rank": 5,
+          "school": "Clark High School",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Vincent Huang",
+          "school": "Jasper High School",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "name": "Elizabeth Guo",
+          "school": "The Hockaday School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Jesse Zhong",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Abhilash Potluri",
+          "school": "Clark High School",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Lin Lin Lee",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 5,
+          "name": " \tYoungwoo Sohn",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 7,
+          "name": "Chris Bender",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Demetrius Hinojosa-Rowland",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Effie Guo",
+          "school": "The Hockaday School",
+          "score": 6
+        },
+        {
+          "rank": 9,
+          "name": "Jay Trivedi",
+          "school": "Trinity Valley School",
+          "score": 6
+        },
+        {
+          "rank": 9,
+          "name": "Richard Liu",
+          "school": "Jasper High School",
+          "score": 6
+        },
+        {
+          "rank": 9,
+          "name": "Tony Tang",
+          "school": "The Oakridge School",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 27
+        },
+        {
+          "rank": 2,
+          "school": "Jasper High School",
+          "score": 25
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 25
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 18
+        },
+        {
+          "rank": 5,
+          "school": "Clark High School",
+          "score": 15
+        }
+      ]
+    },
+    {
+      "title": "2016 Spring",
+      "year": 2016,
+      "term": "SPRING",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dachey Lin",
+          "school": "Jasper High School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": " \tJaeyoung Choi",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Anthony Jiang",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Brian Wang",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Daran Zhao",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Eric Shang",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Lydia Li",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Mithilesh Bhaskaruni",
+          "school": "Jasper High School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Raviraj Rege",
+          "school": "Science/Engineering Magnet",
+          "score": 9
+        },
+        {
+          "rank": 10,
+          "name": "Anish Yellaturu",
+          "school": "Jasper High School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Jasmine Jin",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Kaden Han",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 30
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 29
+        },
+        {
+          "rank": 3,
+          "school": "The Hockaday School",
+          "score": 24
+        },
+        {
+          "rank": 4,
+          "school": "Science/Engineering Magnet",
+          "score": 21
+        },
+        {
+          "rank": 5,
+          "school": "The Oakridge School",
+          "score": 19
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "William Dai",
+          "school": "Rice Middle School",
+          "score": 15
+        },
+        {
+          "rank": 2,
+          "name": "Ian  Chen",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 3,
+          "name": "Aaron Guo",
+          "school": "Rice Middle School",
+          "score": 13
+        },
+        {
+          "rank": 3,
+          "name": "Alex Geng",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 5,
+          "name": "Alena Zhang",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 5,
+          "name": "Arjun Agarwal",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 5,
+          "name": "Brady Zeng",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 5,
+          "name": "Mark  Yang",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 9,
+          "name": "Adam Lai",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 9,
+          "name": "Anthony Wang",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 9,
+          "name": "Eric Shi",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 9,
+          "name": "Joseph Hess",
+          "school": "Cistercian Preparatory School",
+          "score": 11
+        },
+        {
+          "rank": 9,
+          "name": "Matthew Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 42
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 36
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 31
+        },
+        {
+          "rank": 4,
+          "school": "Trinity Valley School",
+          "score": 22
+        },
+        {
+          "rank": 5,
+          "school": "Greenhill School",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Luke Liu",
+          "school": "Rice Middle School",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "name": "Nairit Sarkar",
+          "school": "Rice Middle School",
+          "score": 13
+        },
+        {
+          "rank": 3,
+          "name": "Rithvik Ganesh",
+          "school": "Rice Middle School",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Bobby Rogers",
+          "school": "Trinity Valley School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Kelsey Chen",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Lynn Jung",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Navya  Ramakrishnan",
+          "school": "Rice Middle School",
+          "score": 11
+        },
+        {
+          "rank": 8,
+          "name": "Christopher Fernandes",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 8,
+          "name": "Joseph Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 8,
+          "name": "Neelish Raj",
+          "school": "Rice Middle School",
+          "score": 10
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 39
+        },
+        {
+          "rank": 2,
+          "school": "The Hockaday School",
+          "score": 31
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 28
+        },
+        {
+          "rank": 4,
+          "school": "St. Mark's School of Texas",
+          "score": 27
+        },
+        {
+          "rank": 5,
+          "school": "Trinity Valley School",
+          "score": 22
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Ethan Luo",
+          "school": "Rice Middle School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Varun  Trivedi",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 2,
+          "name": "Yash Garg",
+          "school": "Rice Middle School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "name": "Angela Yi",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 4,
+          "name": "Asim Suhail",
+          "school": "Rice Middle School",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Akshay Shyam",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Anagha Gouru",
+          "school": "Greenhill School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Anush Beeram",
+          "school": "Rice Middle School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Raag Venkat",
+          "school": "Greenhill School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Srikar Talluri",
+          "school": "Rice Middle School",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Rice Middle School",
+          "score": 24
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 17
+        },
+        {
+          "rank": 3,
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "school": "Trinity Valley School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "school": "Clark High School",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Nicholas Tsao",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 2,
+          "name": "Jason Peng",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Jacob David",
+          "school": "Trinity Valley School",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Sahitya Senapathy",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "name": "Michael Solomon",
+          "school": "Trinity Valley School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Kishan Kalaria",
+          "school": "Trinity Valley School",
+          "score": 5
+        },
+        {
+          "rank": 6,
+          "name": "Ruoming Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 6,
+          "name": "Sidney Wang",
+          "school": "The Hockaday School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Owen Ditore",
+          "school": "St. Mark's School of Texas",
+          "score": 4
+        },
+        {
+          "rank": 10,
+          "name": "Benjamin Ai",
+          "school": "Jasper High School",
+          "score": 3
+        },
+        {
+          "rank": 10,
+          "name": "Brian Guo",
+          "school": "The Brook Hill School",
+          "score": 3
+        },
+        {
+          "rank": 10,
+          "name": "Mithul Manivannan",
+          "school": "Jasper High School",
+          "score": 3
+        },
+        {
+          "rank": 10,
+          "name": "Neal Reddy",
+          "school": "St. Mark's School of Texas",
+          "score": 3
+        },
+        {
+          "rank": 10,
+          "name": "Xiao Chen",
+          "school": "The Brook Hill School",
+          "score": 3
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 30
+        },
+        {
+          "rank": 2,
+          "school": "Trinity Valley School",
+          "score": 20
+        },
+        {
+          "rank": 3,
+          "school": "The Brook Hill School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "school": "Jasper High School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "school": "The Hockaday School",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Eddie Xiong",
+          "school": "The Brook Hill School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Hope Fu",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "name": "Raj Baweja",
+          "school": "Trinity Valley School",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "name": "Richard Shen",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Lucas Chen",
+          "school": "The Brook Hill School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Cindy Lu",
+          "school": "The Hockaday School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Mihir  Gupta",
+          "school": "Jasper High School",
+          "score": 5
+        },
+        {
+          "rank": 9,
+          "name": "Daniel  Brickman",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 9,
+          "name": "Kristi Li",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 9,
+          "name": "Meghna Jain",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 9,
+          "name": "Tushar Kohli",
+          "school": "The Oakridge School",
+          "score": 4
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 17
+        },
+        {
+          "rank": 1,
+          "school": "The Brook Hill School",
+          "score": 17
+        },
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 17
+        },
+        {
+          "rank": 4,
+          "school": "Trinity Valley School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "school": "The Oakridge School",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "title": "2016 Fall",
+      "year": 2016,
+      "term": "FALL",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": " \tJaeyoung Choi",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 2,
+          "name": "Daran Zhao",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Kevin Feng",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Elizabeth Guo",
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": "Eric Shang",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "name": " \tYoungwoo Sohn",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 7,
+          "name": "Elizabeth Zhou",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Daming  Lin",
+          "school": "Jasper High School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Lin Lin Lee",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 10,
+          "name": "Amy Jia",
+          "school": "The Hockaday School",
+          "score": 7
+        },
+        {
+          "rank": 10,
+          "name": "Sharon Zhang",
+          "school": "The Hockaday School",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 37
+        },
+        {
+          "rank": 2,
+          "school": "The Hockaday School",
+          "score": 28
+        },
+        {
+          "rank": 3,
+          "school": "Jasper High School",
+          "score": 18
+        },
+        {
+          "rank": 4,
+          "school": "The Oakridge School",
+          "score": 17
+        },
+        {
+          "rank": 5,
+          "school": "Greenhill School",
+          "score": 16
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Adam Lai",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Alex Geng",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Andrew Oliver",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Darren Xi",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Matthew Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Nikitha Thoduguli",
+          "school": "Greenhill School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Zubin Mehta",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 8,
+          "name": "Arjun Agarwal",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Varsha Gande",
+          "school": "Greenhill School",
+          "score": 9
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 32
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 25
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 23
+        },
+        {
+          "rank": 4,
+          "school": "The Brook Hill School",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Tristan Doan",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Henry McElhaney",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Sai Thirunagari",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "name": "Tamal Pilla",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "name": "Bobby Rogers",
+          "school": "Trinity Valley School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Cooper Ribman",
+          "school": "St. Mark's School of Texas",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Gokulan Anand",
+          "school": "Greenhill School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Jason Estrada",
+          "school": "Greenhill School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Joseph Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Ned Tagtmeier",
+          "school": "St. Mark's School of Texas",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Shiv Yajnik",
+          "school": "St. Mark's School of Texas",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 25
+        },
+        {
+          "rank": 2,
+          "school": "Trinity Valley School",
+          "score": 16
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 16
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 16
+        },
+        {
+          "rank": 5,
+          "school": "The Brook Hill School",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Justin Im",
+          "school": "Trinity Valley School",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Anagha Gouru",
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Rohan  Tanjuvar",
+          "school": "Hirschi",
+          "score": 7
+        },
+        {
+          "rank": 4,
+          "name": "Kelly Meng",
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 4,
+          "name": "Lindsay Jade Feinstein",
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 6,
+          "name": "Victor Le",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "Victoria Le",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Olivia  Kim",
+          "school": "The Brook Hill School",
+          "score": 2
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Greenhill School",
+          "score": 18
+        },
+        {
+          "rank": 2,
+          "school": "Trinity Valley School",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "school": "Hirschi",
+          "score": 7
+        },
+        {
+          "rank": 4,
+          "school": "The Brook Hill School",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Nicholas Tsao",
+          "school": "St. Mark's School of Texas",
+          "score": 15
+        },
+        {
+          "rank": 2,
+          "name": "Jacob David",
+          "school": "Trinity Valley School",
+          "score": 14
+        },
+        {
+          "rank": 3,
+          "name": "Michael Solomon",
+          "school": "Trinity Valley School",
+          "score": 10
+        },
+        {
+          "rank": 4,
+          "name": "Devan Patel",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Sahitya Senapathy",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Lucy Young",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Rishika  Kaja",
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Ruoming Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 9,
+          "name": "Kishan Kalaria",
+          "school": "Trinity Valley School",
+          "score": 7
+        },
+        {
+          "rank": 10,
+          "name": "Bolun Zhang",
+          "school": "The Brook Hill School",
+          "score": 6
+        },
+        {
+          "rank": 10,
+          "name": "Scott Wang",
+          "school": "Greenhill School",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 33
+        },
+        {
+          "rank": 2,
+          "school": "Trinity Valley School",
+          "score": 31
+        },
+        {
+          "rank": 3,
+          "school": "The Brook Hill School",
+          "score": 16
+        },
+        {
+          "rank": 4,
+          "school": "Greenhill School",
+          "score": 14
+        },
+        {
+          "rank": 5,
+          "school": "The Hockaday School",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 2,
+          "name": "Hope Fu",
+          "school": "The Hockaday School",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Eddie Xiong",
+          "school": "The Brook Hill School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "name": "Krishna Reddy",
+          "school": "Hirschi",
+          "score": 7
+        },
+        {
+          "rank": 4,
+          "name": "Lucas Chen",
+          "school": "The Brook Hill School",
+          "score": 7
+        },
+        {
+          "rank": 6,
+          "name": "Raj Baweja",
+          "school": "Trinity Valley School",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "Alexis  Nicolas",
+          "school": "Hirschi",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Anvith Potluri",
+          "school": "Clark High School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Berkley  Bertrand",
+          "school": "The Oakridge School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Khalen Haribhai",
+          "school": "The Oakridge School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Meghna Jain",
+          "school": "The Hockaday School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Michael Fong-Kutchins",
+          "school": "The Oakridge School",
+          "score": 5
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 19
+        },
+        {
+          "rank": 2,
+          "school": "The Brook Hill School",
+          "score": 17
+        },
+        {
+          "rank": 3,
+          "school": "The Oakridge School",
+          "score": 15
+        },
+        {
+          "rank": 4,
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 5,
+          "school": "Hirschi",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "title": "2017 Spring",
+      "year": 2017,
+      "term": "SPRING",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Jesse Zhong",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 2,
+          "name": "Elizabeth Guo",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Lin Lin Lee",
+          "school": "The Hockaday School",
+          "score": 6
+        },
+        {
+          "rank": 4,
+          "name": "Abhilash Potluri",
+          "school": "Plano Senior High School",
+          "score": 4
+        },
+        {
+          "rank": 5,
+          "name": "Alan Zhu",
+          "school": "The Brook Hill School",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Effie Guo",
+          "school": "The Hockaday School",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Ransom Swinney",
+          "school": "The Oakridge School",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Sharon Zhang",
+          "school": "The Hockaday School",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Wendy Ho",
+          "school": "The Hockaday School",
+          "score": 3
+        },
+        {
+          "rank": 10,
+          "name": "Funmi Solano",
+          "school": "The Oakridge School",
+          "score": 2
+        },
+        {
+          "rank": 10,
+          "name": "Jackson Forner",
+          "school": "Plano Senior High School",
+          "score": 2
+        },
+        {
+          "rank": 10,
+          "name": "Rishi Vas",
+          "school": "Greenhill School",
+          "score": 2
+        },
+        {
+          "rank": 10,
+          "name": "Tony Tang",
+          "school": "The Oakridge School",
+          "score": 2
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 18
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "school": "The Oakridge School",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "school": "Plano Senior High School",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "school": "Greenhill School",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Kevin  Lu",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 2,
+          "name": "Christian Youst",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Nico Chio",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Stephen LeSage",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 5,
+          "name": "Jacob Weinstein",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "James Thomson",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "John Stigall",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Kiefer Soo",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Nate Stecklein",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Patrick Flanagan",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Rishab Siddamshetty",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Samantha Courtwright",
+          "school": "The Hockaday School",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 28
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 26
+        },
+        {
+          "rank": 3,
+          "school": "The Hockaday School",
+          "score": 22
+        },
+        {
+          "rank": 4,
+          "school": "Parish Episcopal School",
+          "score": 9
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Andrew Oliver",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 1,
+          "name": "Kuylee Kim",
+          "school": "The Hockaday School",
+          "score": 6
+        },
+        {
+          "rank": 3,
+          "name": "Alex Geng",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 4,
+          "name": "Nick Evanich",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 5,
+          "name": "Adam Lai",
+          "school": "St. Mark's School of Texas",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Evan Lai",
+          "school": "St. Mark's School of Texas",
+          "score": 3
+        },
+        {
+          "rank": 5,
+          "name": "Joseph Hess",
+          "school": "Cistercian Preparatory School",
+          "score": 3
+        },
+        {
+          "rank": 8,
+          "name": "Andrew Kogan",
+          "school": "St. Mark's School of Texas",
+          "score": 2
+        },
+        {
+          "rank": 8,
+          "name": "Max Chuang",
+          "school": "St. Mark's School of Texas",
+          "score": 2
+        },
+        {
+          "rank": 8,
+          "name": "Nathan Comeaux",
+          "school": "Cistercian Preparatory School",
+          "score": 2
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Cistercian Preparatory School",
+          "score": 13
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "school": "The Hockaday School",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Mark Van Kirk",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 2,
+          "name": "Coby Scrudder",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 2,
+          "name": "Evan O'Suilleabhain",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 2,
+          "name": "Henry Parmenter",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 2,
+          "name": "Joseph Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 6,
+          "name": "Chase Frutos",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "Christopher Fernandes",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "Connor Ramsey",
+          "school": "Parish Episcopal School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "JB Hudnall",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "Jessica Chen",
+          "school": "John Paul II High School",
+          "score": 4
+        },
+        {
+          "rank": 6,
+          "name": "Samira  Kethu",
+          "school": "Greenhill School",
+          "score": 4
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Cistercian Preparatory School",
+          "score": 19
+        },
+        {
+          "rank": 2,
+          "school": "John Paul II High School",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "school": "Greenhill School",
+          "score": 5
+        },
+        {
+          "rank": 4,
+          "school": "Parish Episcopal School",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Maxwell Wu",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 2,
+          "name": "Angelina Wu",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 3,
+          "name": "Hahrin Jung",
+          "school": "The Hockaday School",
+          "score": 7
+        },
+        {
+          "rank": 3,
+          "name": "Kelsey Chen",
+          "school": "The Hockaday School",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "name": "Anthony Peterman",
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 5,
+          "name": "Varun Trivedi",
+          "school": "St. Mark's School of Texas",
+          "score": 6
+        },
+        {
+          "rank": 7,
+          "name": "David Yang",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Charlie Zhang",
+          "school": "St. Mark's School of Texas",
+          "score": 4
+        },
+        {
+          "rank": 9,
+          "name": "Esha  Julka",
+          "school": "Greenhill School",
+          "score": 2
+        },
+        {
+          "rank": 9,
+          "name": "Raag Venkat",
+          "school": "Greenhill School",
+          "score": 2
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "The Hockaday School",
+          "score": 22
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 21
+        },
+        {
+          "rank": 3,
+          "school": "Cistercian Preparatory School",
+          "score": 6
+        },
+        {
+          "rank": 4,
+          "school": "Greenhill School",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Ethan Luo",
+          "school": "Jasper High School",
+          "score": 5
+        },
+        {
+          "rank": 1,
+          "name": "Sahitya Senapathy",
+          "school": "St. Mark's School of Texas",
+          "score": 5
+        },
+        {
+          "rank": 1,
+          "name": "Yash Garg",
+          "school": "Jasper High School",
+          "score": 5
+        },
+        {
+          "rank": 4,
+          "name": "Asim Suhail",
+          "school": "Jasper High School",
+          "score": 4
+        },
+        {
+          "rank": 4,
+          "name": "Kevn Paul",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 4,
+          "name": "Lucy Young",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 4,
+          "name": "Ruoming Fan",
+          "school": "St. Mark's School of Texas",
+          "score": 4
+        },
+        {
+          "rank": 4,
+          "name": "Shinjini Mukherjee",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 9,
+          "name": "Alex Ni",
+          "school": "Jasper High School",
+          "score": 3
+        },
+        {
+          "rank": 9,
+          "name": "David Lu",
+          "school": "Jasper High School",
+          "score": 3
+        },
+        {
+          "rank": 9,
+          "name": "Meghan Shimer",
+          "school": "The Hockaday School",
+          "score": 3
+        },
+        {
+          "rank": 9,
+          "name": "Michael McGruder",
+          "school": "Greenhill School",
+          "score": 3
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Jasper High School",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "school": "The Oakridge School",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "title": "2018 Spring",
+      "year": 2018,
+      "term": "SPRING",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 1,
+          "name": "Maxwell Jiang",
+          "school": "Jasper High School",
+          "score": 12
+        },
+        {
+          "rank": 3,
+          "name": "Kevin Feng",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Nicholas Tsao",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 5,
+          "name": "Jesse Zhong",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 6,
+          "name": "Marshall Comeaux",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 7,
+          "name": "Nianzu Xiong",
+          "school": "John Paul II High School",
+          "score": 8
+        },
+        {
+          "rank": 7,
+          "name": "Xavi Anderhub",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 9,
+          "name": "Jonathan Li",
+          "school": "Jasper High School",
+          "score": 7
+        },
+        {
+          "rank": 10,
+          "name": "Hope Fu",
+          "school": "The Hockaday School",
+          "score": 6
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 34
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 22
+        },
+        {
+          "rank": 2,
+          "school": "Jasper High School",
+          "score": 22
+        },
+        {
+          "rank": 4,
+          "school": "The Hockaday School",
+          "score": 13
+        },
+        {
+          "rank": 5,
+          "school": "Greenhill School",
+          "score": 11
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Pre-Algebra",
+      "exam_level": 0,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Brendan Herman",
+          "school": "Cistercian Preparatory School",
+          "score": 13
+        },
+        {
+          "rank": 1,
+          "name": "Linyang Lee",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 1,
+          "name": "Vardhan Agnihotri",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 4,
+          "name": "Aditya Shivaswamy",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Arnav Lahoti",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Christian  Neisler",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Ethan Bosita",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Jonathan Zabolio",
+          "school": "Cistercian Preparatory School",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Lucas Lopez",
+          "school": "Cistercian Preparatory School",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Matthew Gomez",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 38
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 37
+        },
+        {
+          "rank": 3,
+          "school": "Parish Episcopal School",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Algebra I",
+      "exam_level": 1,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "John Paul Hays",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 1,
+          "name": "Matthew Sickler",
+          "school": "Cistercian Preparatory School",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Branden Song",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "John Zhao",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Nikhil Dattatreya",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Svanik Jaikumar",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 3,
+          "name": "Will Spencer",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Christian Youst",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "James Thomson",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "John Stigall",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Kai Jameson",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Mac Schneider",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Michael Gao",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Nat Fisher",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Nicholas Ringdahl",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Nico Chio",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Patrick Flanagan",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Rishab Siddamshetty",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Stephen LeSage",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Stice Neuhoff",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "William Coulter",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Cistercian Preparatory School",
+          "score": 28
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 27
+        },
+        {
+          "rank": 3,
+          "school": "Parish Episcopal School",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Geometry",
+      "exam_level": 2,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Andrew Oliver",
+          "school": "Cistercian Preparatory School",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Christopher Hardin",
+          "school": "Cistercian Preparatory School",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Kevin  Lu",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 4,
+          "name": "Alex Ryan",
+          "school": "St. Mark's School of Texas",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "name": "Joseph Hess",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Nathan Comeaux",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 7,
+          "name": "Ekansh Tambe",
+          "school": "St. Mark's School of Texas",
+          "score": 3
+        },
+        {
+          "rank": 8,
+          "name": "David Perlman",
+          "school": "Parish Episcopal School",
+          "score": 1
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Cistercian Preparatory School",
+          "score": 26
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 20
+        },
+        {
+          "rank": 3,
+          "school": "Parish Episcopal School",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Algebra II",
+      "exam_level": 3,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Tristan Doan",
+          "school": "St. Mark's School of Texas",
+          "score": 9
+        },
+        {
+          "rank": 2,
+          "name": "Christopher Fernandes",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 2,
+          "name": "Henry Parmenter",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 4,
+          "name": "Raj Papineni",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 5,
+          "name": "Coby Scrudder",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Evan O'Suilleabhain",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 5,
+          "name": "Joseph Spak",
+          "school": "Cistercian Preparatory School",
+          "score": 5
+        },
+        {
+          "rank": 8,
+          "name": "Abhi Padala",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Ananya Sharma",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Chase Frutos",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Mark Van Kirk",
+          "school": "Cistercian Preparatory School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Reid Fundis",
+          "school": "St. Mark's School of Texas",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Shruti Siva",
+          "school": "Greenhill School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Tukwa Ahsan",
+          "school": "The Hockaday School",
+          "score": 4
+        },
+        {
+          "rank": 8,
+          "name": "Yizhen Han",
+          "school": "John Paul II High School",
+          "score": 4
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "Cistercian Preparatory School",
+          "score": 21
+        },
+        {
+          "rank": 2,
+          "school": "St. Mark's School of Texas",
+          "score": 20
+        },
+        {
+          "rank": 3,
+          "school": "The Hockaday School",
+          "score": 11
+        },
+        {
+          "rank": 4,
+          "school": "Greenhill School",
+          "score": 8
+        },
+        {
+          "rank": 5,
+          "school": "Parish Episcopal School",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Pre-Calculus",
+      "exam_level": 4,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Jeremy Yu",
+          "school": "St. Mark's School of Texas",
+          "score": 14
+        },
+        {
+          "rank": 2,
+          "name": "Maxwell Wu",
+          "school": "St. Mark's School of Texas",
+          "score": 13
+        },
+        {
+          "rank": 3,
+          "name": "Shangyuan Yang",
+          "school": "John Paul II High School",
+          "score": 12
+        },
+        {
+          "rank": 4,
+          "name": "Varun Trivedi",
+          "school": "St. Mark's School of Texas",
+          "score": 11
+        },
+        {
+          "rank": 5,
+          "name": "Anagha  Gouru",
+          "school": "Greenhill School",
+          "score": 9
+        },
+        {
+          "rank": 5,
+          "name": "Hahrin (Lynn) Jung",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 5,
+          "name": "Kelsey Chen",
+          "school": "The Hockaday School",
+          "score": 9
+        },
+        {
+          "rank": 8,
+          "name": "Angelina Wu",
+          "school": "The Hockaday School",
+          "score": 8
+        },
+        {
+          "rank": 9,
+          "name": "Anthony Peterman",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Charlie Zhang",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Krutin  Devesh",
+          "school": "Greenhill School",
+          "score": 7
+        },
+        {
+          "rank": 9,
+          "name": "Tianming Xie",
+          "school": "St. Mark's School of Texas",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 38
+        },
+        {
+          "rank": 2,
+          "school": "The Hockaday School",
+          "score": 26
+        },
+        {
+          "rank": 3,
+          "school": "Greenhill School",
+          "score": 21
+        },
+        {
+          "rank": 4,
+          "school": "John Paul II High School",
+          "score": 20
+        },
+        {
+          "rank": 5,
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        }
+      ]
+    },
+    {
+      "title": "2019 Spring",
+      "year": 2019,
+      "term": "SPRING",
+      "exam": "Calculus",
+      "exam_level": 5,
+      "individual_results": [
+        {
+          "rank": 1,
+          "name": "Dylan Liu",
+          "school": "St. Mark's School of Texas",
+          "score": 12
+        },
+        {
+          "rank": 2,
+          "name": "Michael  McGruder",
+          "school": "Greenhill School",
+          "score": 11
+        },
+        {
+          "rank": 3,
+          "name": "Nicholas Tsao",
+          "school": "St. Mark's School of Texas",
+          "score": 10
+        },
+        {
+          "rank": 3,
+          "name": "Varun Gande",
+          "school": "Greenhill School",
+          "score": 10
+        },
+        {
+          "rank": 5,
+          "name": "Nianzu Xiong",
+          "school": "John Paul II High School",
+          "score": 9
+        },
+        {
+          "rank": 6,
+          "name": "Andres Saez",
+          "school": "Cistercian Preparatory School",
+          "score": 8
+        },
+        {
+          "rank": 6,
+          "name": "Sohum Kulkarni",
+          "school": "Parish Episcopal School",
+          "score": 8
+        },
+        {
+          "rank": 8,
+          "name": "Chase Barclay",
+          "school": "Parish Episcopal School",
+          "score": 7
+        },
+        {
+          "rank": 8,
+          "name": "Hope Fu",
+          "school": "The Hockaday School",
+          "score": 7
+        },
+        {
+          "rank": 8,
+          "name": "Samuel Wilcox",
+          "school": "Cistercian Preparatory School",
+          "score": 7
+        }
+      ],
+      "team_results": [
+        {
+          "rank": 1,
+          "school": "St. Mark's School of Texas",
+          "score": 28
+        },
+        {
+          "rank": 2,
+          "school": "Cistercian Preparatory School",
+          "score": 21
+        },
+        {
+          "rank": 2,
+          "school": "Greenhill School",
+          "score": 21
+        },
+        {
+          "rank": 4,
+          "school": "John Paul II High School",
+          "score": 17
+        },
+        {
+          "rank": 5,
+          "school": "Parish Episcopal School",
+          "score": 15
+        }
+      ]
+    }
+  ]
+}
